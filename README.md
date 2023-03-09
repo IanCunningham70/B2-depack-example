@@ -1,9 +1,7 @@
-# International Ye-Ar Kung Fu version 1.0
-
-idea and gfx : shaun pearson
+# B2 depacker example
 
 code : ian cunningham
 
 music : ben daglish
 
-
+B2 depacker by HCL/Booze.
